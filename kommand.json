@@ -1,0 +1,9 @@
+{
+    "component": {
+        "type": "@s3.bucket",
+        "block_public_access": false
+    },
+    "repos": {
+        "s3": "https://github.com/cloudkommand/s3"
+    }
+}
